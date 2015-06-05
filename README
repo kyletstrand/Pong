@@ -1,0 +1,38 @@
+/***********************************/
+/***********************************/
+/*                                 */
+/*           Pong v0.1             */
+/*      written by Kyle Strand     */
+/*      kyletstrand@gmail.com      */
+/*          5 June 2015            */
+/*                                 */
+/***********************************/
+/***********************************/
+
+
+This is a Pong clone which utilizes the Allegro C libraries
+to handle the graphics.  
+
+to play, simply use the up and down arrows to move your paddle
+up and down. Try to hit the ball passed your opponent. 
+
+Currently, it just plays one round and ends.
+
+Allegro libraries are required for installation.
+  -I will add Allegro installation insructions soon.
+  -To install unpack the file and use the 'make' command.
+
+Future additions:
+  -Add multiple rounds.
+  -Add text to the screen to keep score.
+  -Create a menu with options to choose how many rounds to play.
+  -Custum colors
+  -Custom backgrounds
+
+
+Feel free to play and edit the source code!
+
+The paddle bounce sound uses the button_pressed.ogg from Ubuntu.
+
+Kyle Strand
+5 June 2015
